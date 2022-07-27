@@ -6,7 +6,7 @@ Hello!
 Have you ever had the feeling that you paid for an expensive airline ticket or wondered why ticket prices vary so much? 
 Maybe, like me, you've asked yourself the question: how much do agencies really pay for that flight you're buying? 
 
-(A little personal history of the project)
+**A little personal history of the project)
 
 Doing this course one day I was talking to my uncle and he was complaining about the high prices he was seeing on flights. 
 Obviously with the current situation of oil at such high prices I thought his complaint was reasonable. 
