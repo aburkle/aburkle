@@ -30,8 +30,6 @@ The first number is the number of the .json file created in the folder and the s
 The third number is the price of the flight in euros and the last one is the date of the flight.
 Finally the program will print as text more information about the cheapest flights with the corresponding details,
 in case you are interested in some extra information.
-*** Translated with www.DeepL.com/Translator (free version) ***
-
 
 
 
