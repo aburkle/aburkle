@@ -15,13 +15,13 @@ After that I got to thinking, why is it so expensive, why does the price vary so
 Is there any way to know when it is more convenient to travel? 
 With so many pages and different prices, I decided to see if there was an API that would help me solve the problem....
 
-**And now finally the project description!	
+**And now finally the project description!**	
 
 And after researching different APIs I came across the Amadeus API. One of the most important companies worldwide in the travel industry.
 Now the program by specifying a range of dates, origin and destination, returns a ranking of the cheapest flights noted in the Amadeus system. 
 In this way, you will be able to know the price that the chosen travel agency has access to and know approximately how much you are paying for the flight you want to buy. 
 
-**How to interpret the output
+**How to interpret the output**
 
 The program automatically creates a .json file in the specified folder for each day, in order to save the local information provided by the API and thus minimize the 
 queries to it. Also at the end it creates a final file that compiles all the previous ones.
